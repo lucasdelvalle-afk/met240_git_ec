@@ -1,0 +1,25 @@
+# On branch main
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    src/compute_stats.py
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	TRANSCRIPT.txt
+no changes added to commit (use "git add" and/or "git commit -a")
+*   5d3c483 (HEAD, main) merge: resolve conflict keeping cos and avg
+|\  
+| * b79104e (feature/refactor) docs: edit field comment for conflict practice
+* |   b54d7b9 Merge branch 'feature/refactor' into main
+|\ \  
+| |/  
+| * 4936f92 refactor: rename mean->avg in output schema
+* | 0787ea1 feat: switch field from sin to cos
+|/  
+* 3a4115e docs: add title to README
+* 9b98759 chore: add .gitignore to keep large and generated files out
+* 2cda81e feat: add compute_stats and first results
+* 9a262d4 chore: init repo with project scaffold
